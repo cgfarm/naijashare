@@ -1,0 +1,8 @@
+{
+  "name": "Remix Naijashare Q-Fix",
+  "description": " Nigerian rideshare, verified handyman, and apartment marketplace platform with client, driver, provider, and admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
